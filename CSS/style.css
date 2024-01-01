@@ -11,10 +11,10 @@
   /* font-family: 'Poppins', sans-serif; */
 }
 :root {
-  --bg-color: #4C0033;
-  --second-bg-color: #790252;
+  --bg-color: #27374D;
+  --second-bg-color: #526D82;
   --text-color: #EEF0E5;
-  --main-color: #E80F88;
+  --main-color: #9DB2BF;
 }
 html {
   font-size: 70.5%;
